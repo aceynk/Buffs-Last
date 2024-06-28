@@ -27,10 +27,11 @@ public class ModEntry : Mod
         
         foreach (string key in buffs.Select(v => v.Key))
         {
-            Log(key);
             persistentBuffs[key] = true;
         }
         
         persistentBuffs["food"] = true;
+        
+        Log("Successfully processed all Buffs.");
     }
 }
