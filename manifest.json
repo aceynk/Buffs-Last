@@ -1,0 +1,16 @@
+{
+  "Name": "Buffs Last",
+  "Author": "aceynk",
+  "Version": "1.0.0",
+  "Description": "Every buff lasts through saves and sleeping.",
+  "UniqueID": "aceynk.BuffsLast",
+  "EntryDll": "Buffs Last.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "aceynk.PersistentBuffs",
+      "IsRequired": true
+    }
+  ]
+}
