@@ -1,3 +1,3 @@
-Fix for aceynk's Buffs Last mod. Mastery Statues' buffs no longer last into the next day.
+A mod that makes all* buffs in the game Stardew Valley persist across days and saves.
 
-Fixed by @rainbowlacks wonderful girlfriend Modern-XP (Ashley) :)
+Mastery statue buffs now don't persist into the next day, thanks to Modern-XP (@rainbowlacks' girlfriend Ashley)
