@@ -1,0 +1,5 @@
+{
+  "GMCM.MainTitle": "Main",
+  "GMCM.ExcludeEndless.Name": "Exclude Endless Buffs",
+  "GMCM.ExcludeEndless.Desc": "Excludes potentially problematic endless vanilla buffs. \n\nIE: buffs from the new Statue of Blessings."
+}
